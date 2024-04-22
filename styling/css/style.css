@@ -467,7 +467,8 @@ img {
 }
 
 .fixed-header .header-nav {
-    background: #fff;
+    background: rgb(40 167 69 / 23%);
+    
     /* box-shadow: 0 8px 50px -6px rgba(84, 84, 120, .26) */
 }
 
