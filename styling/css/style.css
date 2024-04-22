@@ -98,7 +98,7 @@ body {
     font-size: 14px;
     line-height: 1.8;
     color: #41AEAE;
-    font-smoothing: antialiased;
+    font-smooth: antialiased;
     font-weight: 400;
     overflow-x: hidden;
     letter-spacing: 0.5px;
@@ -468,7 +468,7 @@ img {
 
 .fixed-header .header-nav {
     background: #fff;
-    box-shadow: 0 8px 50px -6px rgba(84, 84, 120, .26)
+    /* box-shadow: 0 8px 50px -6px rgba(84, 84, 120, .26) */
 }
 
 .fixed-header .header-nav .navbar-nav .nav-link {
